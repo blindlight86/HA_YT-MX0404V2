@@ -1,0 +1,12 @@
+{
+    "domain": "yt_mx0404v2",
+    "name": "YT MX0402",
+    "documentation": "https://github.com/blindlight86/USR-R16",
+    "issue_tracker": "https://github.com/blindlight86/HA_USR-R16/issues",
+    "requirements": [],
+    "dependencies": ["input_select"],
+    "codeowners": [
+      "@blindlight"
+    ],
+    "config_flow": true
+  }
